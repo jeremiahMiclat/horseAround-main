@@ -2,7 +2,7 @@
 @BASE_URL = http://localhost:8080
 
 # DEPLOY URL
-@DEPLOY_URL = https://cse-341-adolin.onrender.com
+@DEPLOY_URL = https://horsearounddraft.onrender.com
 
 
 
